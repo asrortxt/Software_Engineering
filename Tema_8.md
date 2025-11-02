@@ -59,7 +59,7 @@ my_car = Car("toyota", "Cororlla")
 my_car.drive()
 ```
 ### Результат
-![Меню](https://github.com/asrortxt/Software_Engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_8/zadanii/Lab8_2.py)
+![Меню](https://github.com/asrortxt/Software_Engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_8/pic/Lab8_2.PNG)
 
 ## Выводы
 В данном коде:
@@ -85,7 +85,7 @@ my_electronic_car.drive()
 my_electronic_car.charge()
 ```
 ### Результат
-![Меню](https://github.com/asrortxt/Software_Engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_8/zadanii/Lab8_3.py)
+![Меню](https://github.com/asrortxt/Software_Engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_8/pic/Lab8_3.PNG)
 
 ## Выводы
 В данном коде:
@@ -114,7 +114,7 @@ print(my_car._make) # Доступ к защищенному атрибуту
 my_car.drive()
 ```
 ### Результат
-![Меню](https://github.com/asrortxt/Software_Engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_8/zadanii/Lab8_4.py)
+![Меню](https://github.com/asrortxt/Software_Engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_8/pic/Lab8_4.PNG)
 
 ## Выводы
 В данном коде:
@@ -148,7 +148,7 @@ print(rect.area()) # Вызов метода area() для прямоуголь�
 print(circle.area()) # Вызов метода area() для круга и вывод результата
 ```
 ### Результат
-![Меню](https://github.com/asrortxt/Software_Engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_8/zadanii/Lab8_5.py)
+![Меню](https://github.com/asrortxt/Software_Engineering/blob/%D0%A2%D0%B5%D0%BC%D0%B0_8/pic/Lab8_5.PNG)
 
 ## Выводы
 В данном коде:
